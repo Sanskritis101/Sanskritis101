@@ -7,6 +7,6 @@
 You can reach out to me on LinkedIn: https://www.linkedin.com/in/sanskritis/
 
 <!---
-Sanskritis634/Sanskritis634 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sanskritis7/Sanskritis7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
