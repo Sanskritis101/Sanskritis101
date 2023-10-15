@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭I'm currently exploring Computer Vision, Machine Learning, YOLO(You Only Look Once) and Database Management System(DBMS).<br>🌱I'm learning Web Development and Graphics Design.<br>🍀I'm well-acquainted with programming languages such as: C, C++, Java and Python. I use MySQL for DBMS.<br>⚡Fun Fact: I once accidentally broke an ornamental lamp while playing catch. Lesson learned: Never play catch indoors.<br>🧩My hobbies include: Basketball, Music, Reading and Travelling. I used to write bits and pieces during high school.
+# About Me
+
+Whatever you're required to know, you'd know.
 
 
 ## 🌐 Socials:
